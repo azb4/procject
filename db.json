@@ -1,0 +1,15 @@
+{
+  "services": [{ "id": 1, "title": "Услуга компьютерного мастера", 
+    "thumbnailUrl": "http://localhost:9000/repair.jpg", "rate": 500,
+    "rating": 3, "specialist": { "id": 1, "fullName": "Иван Иванов" }},
+    { "id": 2, "title": "Умею всё. Работаю на совесть! Бесплатно проконсультирую по телефону.", 
+      "thumbnailUrl": "http://localhost:9000/spark.jpg", "rate": 1500,
+      "rating": 5, "specialist": { "id": 1, "fullName": "Иван Иванов" }},
+      { "id": 3, "title": "Frontend-разработчик (React.js)", 
+        "thumbnailUrl": "http://localhost:9000/office.jpg", "rate": 1000,
+        "rating": 5, "specialist": { "id": 1, "fullName": "Иван Иванов" }},
+        { "id": 4, "title": "Приготовлю самое вкусное блюдо в вашей жизни", 
+          "thumbnailUrl": "http://localhost:9000/shef.jpg", "rate": 1200,
+          "rating": 4, "specialist": { "id": 1, "fullName": "Иван Иванов" }}
+  ]
+}
