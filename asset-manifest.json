@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/procject/static/css/main.e9bae532.chunk.css",
+    "main.js": "/procject/static/js/main.7a291099.chunk.js",
+    "main.js.map": "/procject/static/js/main.7a291099.chunk.js.map",
+    "runtime-main.js": "/procject/static/js/runtime-main.81b0a49f.js",
+    "runtime-main.js.map": "/procject/static/js/runtime-main.81b0a49f.js.map",
+    "static/js/2.e8fab7ea.chunk.js": "/procject/static/js/2.e8fab7ea.chunk.js",
+    "static/js/2.e8fab7ea.chunk.js.map": "/procject/static/js/2.e8fab7ea.chunk.js.map",
+    "static/js/3.3cf2549d.chunk.js": "/procject/static/js/3.3cf2549d.chunk.js",
+    "static/js/3.3cf2549d.chunk.js.map": "/procject/static/js/3.3cf2549d.chunk.js.map",
+    "index.html": "/procject/index.html",
+    "static/css/main.e9bae532.chunk.css.map": "/procject/static/css/main.e9bae532.chunk.css.map",
+    "static/js/2.e8fab7ea.chunk.js.LICENSE.txt": "/procject/static/js/2.e8fab7ea.chunk.js.LICENSE.txt",
+    "static/media/Work only with the best.357f9345.png": "/procject/static/media/Work only with the best.357f9345.png",
+    "static/media/farming.1869c4c6.png": "/procject/static/media/farming.1869c4c6.png",
+    "static/media/landing-page.d89b1a3e.jpg": "/procject/static/media/landing-page.d89b1a3e.jpg",
+    "static/media/logo.6f75073d.png": "/procject/static/media/logo.6f75073d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81b0a49f.js",
+    "static/js/2.e8fab7ea.chunk.js",
+    "static/css/main.e9bae532.chunk.css",
+    "static/js/main.7a291099.chunk.js"
+  ]
+}
